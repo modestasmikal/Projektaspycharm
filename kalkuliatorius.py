@@ -28,4 +28,7 @@ while True:
         res = f"{sk1} + {sk2} = {sk1 + sk2}"
 
     elif meniu_pasirinkimas == "2":
-        res = f"{sk1} - {sk2} = {sk1 - sk2}
+        res = f"{sk1} - {sk2} = {sk1 - sk2}"
+
+    elif meniu_pasirinkimas == "3":
+        res = f"{sk1} * {sk2} = {sk1 * sk2}"
