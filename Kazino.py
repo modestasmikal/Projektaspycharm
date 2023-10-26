@@ -48,3 +48,4 @@ else:
 if(kazino % 10) == 0:
     print("Sveikiname jus su", kazino,"metu", "jubiliejum!",)
 print("kas vyksta !!")
+print("kas vykta xd")
